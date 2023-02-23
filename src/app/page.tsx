@@ -1,3 +1,5 @@
+import { FeaturedProjects } from "./(FeaturedProjects)";
+
 export default function Home() {
   return (
     <div className="min-h-screen p-4">
@@ -20,6 +22,8 @@ export default function Home() {
           look at some of my projects:
         </div>
       </section>
+      <hr className="my-8" />
+      <FeaturedProjects />
     </div>
   );
 }
