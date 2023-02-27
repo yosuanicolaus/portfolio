@@ -13,6 +13,9 @@ export default function RootLayout({
       */}
       <head />
       <body>
+        <nav className="flex border-b sticky top-0 p-4 bg-white shadow-sm">
+          <div className="w-8 h-8 bg-primary ml-auto rounded-full"></div>
+        </nav>
         <>{children}</>
       </body>
     </html>
