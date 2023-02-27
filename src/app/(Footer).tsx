@@ -58,7 +58,8 @@ export function Footer() {
       <div className="text-center bg-gray-200 text-lg font-thin">
         <div>
           <a
-            href="https://github.com/yosuanichttps://github.com/yosuanicolaus/portfolious/portfolio"
+            href="https://github.com/yosuanicolaus/portfolio"
+            target="_blank"
             className="hover:text-green-600 transition"
           >
             &copy; copyright Yosua Nicolaus 2023
