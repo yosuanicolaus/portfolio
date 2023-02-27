@@ -1,3 +1,4 @@
+import { Footer } from "./(Footer)";
 import "./globals.css";
 
 export default function RootLayout({
@@ -13,10 +14,11 @@ export default function RootLayout({
       */}
       <head />
       <body>
-        <nav className="flex border-b sticky top-0 p-4 bg-white shadow-sm z-20">
+        {/* <nav className="flex border-b sticky top-0 p-4 bg-white shadow-sm z-20">
           <div className="w-8 h-8 bg-primary ml-auto rounded-full"></div>
-        </nav>
+        </nav> */}
         <>{children}</>
+        <Footer />
       </body>
     </html>
   );
