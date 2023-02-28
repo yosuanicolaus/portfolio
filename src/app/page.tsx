@@ -1,3 +1,4 @@
+import { AboutMe } from "./(AboutMe)";
 import { FeaturedProjects } from "./(FeaturedProjects)";
 
 export default function Home() {
@@ -24,6 +25,7 @@ export default function Home() {
         </section>
       </div>
       <FeaturedProjects />
+      <AboutMe />
     </div>
   );
 }
