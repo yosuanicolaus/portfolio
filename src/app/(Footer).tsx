@@ -27,7 +27,7 @@ export function Footer() {
         height={400}
         viewBox="0 0 32 32"
         preserveAspectRatio="none"
-        className="w-full mt-20"
+        className="w-full"
       >
         <polygon points="0,15 100,0 100,100 0,100" className="fill-gray-200" />
       </svg>

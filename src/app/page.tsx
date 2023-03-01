@@ -3,7 +3,7 @@ import { FeaturedProjects } from "./(FeaturedProjects)";
 
 export default function Home() {
   return (
-    <div className="min-h-screen p-4">
+    <div className="min-h-screen p-4 pb-0">
       <div className="xl:mx-36 lg:mx-24 md:mx-16 sm:mx-8 my-8">
         <section id="hi">
           <div className="lg:text-4xl sm:text-3xl text-2xl my-4 font-bold">
