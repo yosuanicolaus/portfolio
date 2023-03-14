@@ -42,25 +42,31 @@ export function AboutMe() {
           </div>
           <div className="collapse-content bg-gray-100 group-focus:bg-secondary group-focus:text-secondary-content text-lg sm:text-xl lg:text-2xl">
             <ul className="list-none">
-              <li className="hover:list-disc hover:ml-8">HTML, CSS</li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
+                HTML, CSS
+              </li>
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 JavaScript, TypeScript
               </li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 Python, C#, C++, Ruby
               </li>
-              <li className="hover:list-disc hover:ml-8">React, NextJS</li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
+                React, NextJS
+              </li>
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 Bootstrap, Tailwind
               </li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 NodeJS, Express, Rails
               </li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 MongoDB, Firebase, MySQL
               </li>
-              <li className="hover:list-disc hover:ml-8">Godot, GDScript</li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
+                Godot, GDScript
+              </li>
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 VsCode(+NeoVim), Bash, Git, Linux
               </li>
             </ul>
@@ -73,7 +79,7 @@ export function AboutMe() {
           </div>
           <div className="collapse-content bg-gray-100 group-focus:bg-accent group-focus:text-accent-content text-lg sm:text-xl lg:text-2xl">
             <ul className="list-none grid gap-2">
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 <div className="font-semibold">The Odin Project</div>
                 <div>
                   This is where I learned the most about web development basics.
@@ -82,7 +88,7 @@ export function AboutMe() {
                   documentation.
                 </div>
               </li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 <div className="font-semibold">Youtube and Reddit</div>
                 <div>
                   I often browse these platforms to keep up to date with the
@@ -91,7 +97,7 @@ export function AboutMe() {
                   knowledge.
                 </div>
               </li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 <div className="font-semibold">Books</div>
                 <div>
                   I enjoy reading books to deepen my understanding of
@@ -111,14 +117,14 @@ export function AboutMe() {
           </div>
           <div className="collapse-content bg-gray-100 group-focus:bg-warning group-focus:text-warning-content text-lg sm:text-xl lg:text-2xl">
             <ul className="list-none grid gap-2">
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 <div className="font-semibold">Music</div>
                 <div>
                   I enjoy playing the piano and occasionally composing music in
                   my free time.
                 </div>
               </li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 <div className="font-semibold">
                   Neural Networks, Machine Learning, and AI
                 </div>
@@ -127,7 +133,7 @@ export function AboutMe() {
                   and am eager to learn more about them.
                 </div>
               </li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 <div className="font-semibold">
                   Coding Challenges/Competitive Programming
                 </div>
@@ -136,7 +142,7 @@ export function AboutMe() {
                   problem-solving skills.
                 </div>
               </li>
-              <li className="hover:list-disc hover:ml-8">
+              <li className="hover:translate-x-1 transition hover:ml-8">
                 <div className="font-semibold">Building Projects</div>
                 <div>
                   Above all, I love building projects. It's the most effective
